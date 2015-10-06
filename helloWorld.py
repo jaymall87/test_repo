@@ -1,5 +1,1 @@
-print 'Hello World small change'
-print 'learing some git'
-print 'one last edit'
-print 'Hello World stuff'
-print 'learing some git stuff add'
+print 'learing some git stuff'
